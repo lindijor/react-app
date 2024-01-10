@@ -18,3 +18,7 @@ h2 {
   grid-template-columns: repeat(2, 1fr);
   padding: 0px 20px 0px 20px;
 }
+
+img {
+  margin: 0 15px;
+}
