@@ -1,0 +1,30 @@
+form {
+  text-align: left;
+  padding: 20px 0px 60px 0px;
+  font-family: Arial, sans-serif;
+  font-weight: lighter;
+}
+
+button {
+  color: white;
+  background: #9fdef7;
+  border: 1px #9fdef7 solid;
+  border-radius: 5px;
+  padding: 5px 10px;
+  transition: all 150ms ease-in-out;
+  box-shadow: 2px 2px 7px black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button:hover {
+  color: #9fdef7;
+  background: white;
+  border: 1px #9fdef7 solid;
+  cursor: pointer;
+}
+
+input {
+  border: 1px black solid;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
