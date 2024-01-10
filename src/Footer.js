@@ -7,12 +7,8 @@ export default function Footer() {
       <p className="coder-sources">
         This project was coded by{" "}
         <a href="https://github.com/lindijor">Lindis Jørgensen</a> and is{" "}
-        <a href="https://github.com/lindijor/weather-application-project">
-          on GitHub
-        </a>{" "}
-        and{" "}
-        <a href="https://fluffy-pixie-20fd82.netlify.app/">hosted on Netlify</a>
-        .
+        <a href="https://github.com/lindijor/react-app">on GitHub</a> and hosted
+        on Netlify
       </p>
     </div>
   );
